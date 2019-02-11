@@ -1,0 +1,3 @@
+http://www.tjk.org/TR/Kurumsal/Info/GetCSV/GunlukYarisSonuclari?SehirId=4&QueryParameter_Tarih=11/02/2019&Sehir=Bursa
+
+http://www.tjk.org/TR/Kurumsal/Info/GetCSV/GunlukYarisSonuclari?SehirId=1&QueryParameter_Tarih=10/02/2019&Sehir=Adana
